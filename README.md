@@ -34,7 +34,6 @@ Esse projeto trabalha em conjunto com os seguintes repositórios:
 - [Usuário](https://github.com/rayandealmeida/usuario)
 - [Agendador de Tarefas](https://github.com/rayandealmeida/agendador-tarefas)
 - [Notificação](https://github.com/rayandealmeida/notificacao)
-- [BFF](https://github.com/rayandealmeida/bff-agendador-tarefas)
 
 ## Projeto completo
 
